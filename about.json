@@ -2,19 +2,5 @@
   "name": "discourse-test-theme",
   "about_url": "URL",
   "license_url": "URL",
-  "color_schemes": {
-    "Test": {
-      "primary": "232F3E",
-      "secondary": "ffffff",
-      "tertiary": "397d3c",
-      "quaternary": "FFCD30",
-      "header_background": "ffffff",
-      "header_primary": "232F3E",
-      "highlight": "D9E1E6",
-      "danger": "EF4F3E",
-      "success": "397D3C",
-      "love": "E13671"
-    }
-  },
   "component": true
 }
