@@ -2,5 +2,8 @@
   "name": "discourse-test-theme",
   "about_url": "URL",
   "license_url": "URL",
-  "component": true
+  "component": true,
+  "assets": {
+    "videojs": "assets/videojs.min.js"
+  }
 }
