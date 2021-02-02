@@ -6,7 +6,8 @@ export default {
 
   initialize(container) {
     withPluginApi("0.8.36", (api) => {
-      console.log(settings.theme_uploads)
+
+      console.log(this)
         // loadScript(settings.theme_uploads.videojs).then(() => {
         // })
     })
